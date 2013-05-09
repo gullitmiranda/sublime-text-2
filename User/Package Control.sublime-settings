@@ -39,6 +39,7 @@
 		"RubyEval",
 		"RubyFormat",
 		"RubyMotion Autocomplete",
-		"Sass"
+		"Sass",
+		"SCSS"
 	]
 }
