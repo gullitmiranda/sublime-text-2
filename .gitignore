@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+*.cache
+*.last-run
+User/Gist.sublime-settings
+User/ChangeList.sublime-settings
