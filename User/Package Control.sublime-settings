@@ -25,6 +25,7 @@
 		"LESS",
 		"Markdown Preview",
 		"Markdown Todo",
-		"nginx"
+		"nginx",
+		"Pretty JSON"
 	]
 }
