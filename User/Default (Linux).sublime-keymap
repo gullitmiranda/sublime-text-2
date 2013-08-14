@@ -1,4 +1,5 @@
 [
+  { "keys": ["ctrl+alt+m"], "command": "strapdown_markdown_preview", "args": {"target": "browser"} },
   {"keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true}},
   {"keys": ["super+alt+]"], "command": "alignment"},
   {"keys": ["super+alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},

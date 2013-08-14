@@ -1,4 +1,5 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
@@ -22,10 +23,12 @@
 		"Guard",
 		"Hex to RGB Converter",
 		"Highlight",
+		"HTML2Haml",
 		"HTML5",
 		"HTMLAttributes",
 		"Jade",
 		"Jade Snippets",
+		"Javascript Beautify",
 		"JavaScript Refactor",
 		"JavaScript Snippets",
 		"jQuery Snippets pack",
@@ -43,8 +46,8 @@
 		"Rails Related Files",
 		"RSpec",
 		"RSpec (snippets and syntax)",
-		"Ruby 1.9 Hash Converter",
 		"Ruby 1.9 Hash Reverter",
+		"Ruby Hash Converter",
 		"Ruby on Rails snippets",
 		"RubyEval",
 		"RubyFormat",
